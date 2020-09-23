@@ -1,0 +1,12 @@
+frmMain = 66, 66, 512, 440, C, 22, 22, 444, 440, C
+modStart = 44, 44, 466, 462, C
+modDisplayinfo = 22, 22, 468, 396, C
+modMapiMail = 0, 0, 446, 374, C
+modStringManipulatie = -1, 40, 602, 277, C
+modDatabaseFunctions = 17, 58, 576, 400, C
+frmDownload = -53, 47, 558, 362, C, 22, 22, 633, 337, C
+frmSettings = 154, 154, 619, 469, C, 68, 41, 533, 356, C
+modFolderBrowse = 0, 0, 465, 315, C
+frmSearch = 22, 22, 475, 436, C, 66, 66, 444, 404, C
+Form1 = 88, 88, 466, 426, Z, 66, 66, 718, 514, C
+frmSplash = 0, 0, 0, 0, C, 0, 0, 0, 0, C

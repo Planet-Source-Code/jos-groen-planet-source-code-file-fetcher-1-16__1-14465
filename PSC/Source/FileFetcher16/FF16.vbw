@@ -1,0 +1,11 @@
+frmMain = 0, 0, 0, 0, C, 22, 22, 506, 367, C
+modStart = 0, 0, 0, 0, C
+modDisplayinfo = 0, 0, 0, 0, C
+modMapiMail = 0, 0, 0, 0, C
+modStringManipulatie = 0, 0, 0, 0, C
+modDatabaseFunctions = 0, 0, 0, 0, C
+frmDownload = 110, 110, 656, 455, , 66, 66, 612, 411, C
+frmSettings = 0, 0, 0, 0, C, 132, 132, 616, 477, C
+modFolderBrowse = 0, 0, 0, 0, C
+Form1 = 66, 66, 612, 411, , 22, 22, 568, 367, C
+frmSplash = 0, 0, 484, 345, , 154, 154, 638, 499, C

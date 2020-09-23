@@ -1,0 +1,32 @@
+start: 16-1-2001 21:38:41 1 Auto complete
+ Done: 21:39:04
+start: 16-1-2001 21:39:04 2 linear regression
+ Done: 21:39:18
+start: 16-1-2001 21:39:18 3 Ralf
+ Done: 21:39:28
+start: 16-1-2001 21:39:28 4 _ * Drag form showing contents! * _
+ Done: 21:39:35
+start: 16-1-2001 21:40:39 1 Auto complete
+ Done: 16-1-2001 21:40:57
+start: 16-1-2001 21:40:57 2 linear regression
+ Done: 16-1-2001 21:41:06
+start: 16-1-2001 21:41:06 3 Ralf
+ Done: 16-1-2001 21:41:14
+start: 16-1-2001 21:41:14 4 _ * Drag form showing contents! * _
+ Done: 16-1-2001 21:41:25
+start: 16-1-2001 21:41:25 5 ByteString
+ Done: 16-1-2001 21:41:38
+start: 16-1-2001 21:41:38 6 GetDelimCount
+ Done: 16-1-2001 21:41:48
+start: 16-1-2001 21:41:48 7 Left Shift and Right Shift
+ Done: 16-1-2001 21:41:53
+start: 16-1-2001 21:41:53 8 Convert 16 bit colors to 24 bit
+ Done: 16-1-2001 21:42:03
+start: 16-1-2001 21:42:03 9 File Type Association
+ Done: 16-1-2001 21:42:14
+start: 16-1-2001 21:42:14 10 GetArraysFromString
+ Done: 16-1-2001 21:42:24
+start: 16-1-2001 21:42:24 11 Match() - String Validation Function
+[PSID:357 not found ? article ?]
+ Done: 16-1-2001 21:42:30
+start: 16-1-2001 21:42:30 12 C++ Buttons works on vb4
